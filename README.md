@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm RutujaaS</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutujaas&label=Profile%20views&color=0e75b6&style=flat" alt="rutujaas" /> </p>
 
 - 📫 How to reach me **rutujasutar02@gmail.com**
